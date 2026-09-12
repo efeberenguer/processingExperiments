@@ -1,4 +1,4 @@
-// the code below was developed along ChatGPT
+// Este código se ha desarollado con ChatGPT
 
 let x = 128;
 let y = 128;
